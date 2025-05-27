@@ -23,4 +23,4 @@ If you didn't ran the installer, then you and your image have to be in which dir
 
 ## License
 
-There is not any license because of original project do not contains any license. I emailed original projects owner about this.
+This software and every part of it licensed by GNU is Not Unix General Public License version 3 (GPLv3)
