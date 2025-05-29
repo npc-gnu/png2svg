@@ -23,4 +23,4 @@ If you didn't ran the installer, then you and your image have to be in which dir
 
 ## License
 
-This software and every part of it licensed by GNU is Not Unix General Public License version 3 (GPLv3)
+This software and every part of it licensed by GNU is Not Unix Affero General Public License version 3 (AGPLv3)
