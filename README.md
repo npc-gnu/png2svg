@@ -8,17 +8,17 @@ Convert .png to .svg
 
 ### 1. Clone the repo:
 
-`git clone https://github.com/npc-gnu/png2svg`
+```git clone https://github.com/npc-gnu/png2svg```
 
 ### 2. Compile it:
-`make`
+```make```
 
 ### 3. Run installer(optionel):
-`chmod +x install && ./install`
+```chmod +x install && ./install```
 
 ## Usage
 
-If you ran the installer, than you can write `png2svg *file*.png` any directory.
+If you ran the installer, than you can write ```png2svg *file*.png``` any directory.
 If you didn't ran the installer, then you and your image have to be in which directory is png2svg (default directory is ~/png2svg )
 
 ## License
