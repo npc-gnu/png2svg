@@ -24,7 +24,7 @@ chmod +x install && ./install
 
 ## Usage
 
-If you ran the installer, than you can use ```img2svg *file*.png``` any directory.
+If you ran the installer, than you can use `img2svg *file*.png` any directory.
 Both your terminal and the image must be in the same directory as the `img2svg` binary if you don't run the installer. (default directory is ~/png2svg )
 - Note: When you compile png2svg, it's name became's `img2svg.
 ## License
